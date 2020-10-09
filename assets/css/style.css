@@ -1,0 +1,87 @@
+* {
+    background-color: #070707;
+    padding: 0;
+    margin: 0;
+}
+header {
+    display: flex;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+}
+
+nav h1 {
+    font-family: 'Monoton', cursive;
+    color: #6e6864;
+    font-size: 3em;
+    font-weight: lighter;
+    margin-left: 30px;
+    
+}
+.login {
+    font-family: 'Ubuntu', sans-serif;
+    color: #6e6864;
+    text-transform: uppercase;
+    margin-right: 100px;
+    margin-left: 50px;
+    text-decoration: none;
+   
+}
+
+li {
+    font-family: 'Ubuntu', sans-serif;
+    display: inline-block;
+    color: #6e6864;
+    text-transform: uppercase;
+    justify-content: space-between;
+    list-style: none;
+    padding-left: 200px;
+}
+.mini {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 5rem;
+    color: #9d9f9f;
+    margin-top: 600px;
+    margin-left: 200px;
+}
+
+.shop {
+    color: #ac8059;
+    margin-left: 200px;
+    margin-top: 50px;
+    text-transform: uppercase;
+
+}
+.right {
+    position: absolute;
+    right: 40px;
+    margin-right: 0;
+
+    
+}
+.wohn {
+   width: 240px;
+   height: 540px;
+   position: relative;
+}
+.bad {
+    width: 240px;
+    height: 540px;
+    position: relative;
+ }
+ .schlaf {
+    width: 240px;
+    height: 540px;
+    position: relative;
+ }
+
+ footer {
+     display: inline-block;
+     color: #9d9f9f;
+     margin-top: 800px;
+     align-items: center;
+     justify-content: space-between;
+
+ }
