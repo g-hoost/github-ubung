@@ -50,7 +50,6 @@ hr {
     margin-left: 200px;
 }
 .minimalism {
-    text-align-last: center;
     padding-right: 30px;
 }
 
@@ -71,20 +70,20 @@ main {
     padding: 5px;
 }
 .wohn {
-   width: 240px;
-   height: 540px;
+   width: 15rem;
+   height: 40rem;
    position: relative;
    margin-right: 10px;
 }
 .bad {
-    width: 240px;
-   height: 540px;
+    width: 15rem;
+    height: 40rem;
     position: relative;
     margin-right: 10px;
  }
  .schlaf {
-    width: 240px;
-   height: 540px;
+    width: 15rem;
+   height: 40rem;
     position: relative;
  }
  .facebook {
@@ -126,9 +125,10 @@ main {
      margin-bottom: 3.5rem;
  }
  button {
-    font-size: 1.5em; 
-    width: 50px;
+     font-size: 1.5em; 
+     width: 50px;
      height: 50px;
+     margin-right: 50px;
      background-color: transparent;
      color: #ac8059;
      border: 2px solid #ac8059;
